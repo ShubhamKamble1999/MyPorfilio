@@ -1,7 +1,7 @@
 import React from 'react'
 import "./AboutUs.css"
 import RESUME from '../../assets/file/Shubham_Kamble_Resume.pdf'
-import PANIO from '../../assets/images//3d-playing-piano.jpg'
+import PANIO from '../../assets/images/3d-playing-piano.jpg'
 
 export const AboutUs = () => {
     const urlPath = "https://drive.google.com/file/d/1OVthspip51mdXUXjST2MOaZ6JXQ3eUFW/view?usp=drivesdk"
